@@ -1,5 +1,10 @@
 # StuntKids - Stunting Checker
 
+<div align="center">
+<img src="https://github.com/StuntKids/.github/assets/95016158/f4a7c570-a890-43ee-b4cd-a67724b9f271" width="50%" height="50%">
+</div>
+
+
 ## About
 **StuntKids** is a mobile application designed to help identify early signs of stunting and monitor the growth of toddlers aged 1–24 months. The app features a *Stunting Checker* to assess a child’s growth based on height, age, and gender, providing personalized nutritional recommendations. It also includes a *History Stunting Checker* for tracking growth progress and an *Educational Articles* section offering practical tips and insights on preventing stunting. With these features, StuntKids aims to empower families with tools and knowledge to support healthy child development and address stunting effectively.
 
