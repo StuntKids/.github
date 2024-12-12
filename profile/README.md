@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://github.com/StuntKids/.github/assets/95016158/f4a7c570-a890-43ee-b4cd-a67724b9f271" width="50%" height="50%">
-</div>
+(https://github.com/StuntKids/.github/blob/main/STUNTKIDS%202.png?raw=true)</div>
 
 
 ## About
