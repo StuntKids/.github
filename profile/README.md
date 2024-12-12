@@ -1,7 +1,7 @@
 # StuntKids - Stunting Checker
 
 <div align="center">
-<img src="https://github.com/StuntKids/.github/blob/main/STUNTKIDS%202.png?raw=true" width="50%" height="50%">
+<img src="https://github.com/StuntKids/.github/blob/main/STUNTKIDS%202.png?raw=true" width="30%" height="30%">
 </div>
 
 
