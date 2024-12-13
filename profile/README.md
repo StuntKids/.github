@@ -8,6 +8,11 @@
 ## About
 **StuntKids** is a mobile application designed to help identify early signs of stunting and monitor the growth of toddlers aged 1–24 months. The app features a *Stunting Checker* to assess a child’s growth based on height, age, and gender, providing personalized nutritional recommendations. It also includes a *History Stunting Checker* for tracking growth progress and an *Educational Articles* section offering practical tips and insights on preventing stunting. With these features, StuntKids aims to empower families with tools and knowledge to support healthy child development and address stunting effectively.
 
+## Get our Apllication
+To get our application you can [click here](https://drive.google.com/drive/folders/15Jhs3JP7410sVYQ4ly02QmGh6aU6aUbp?usp=sharing
+)
+
+
 ## [C242-PS291] Team Members :
 | ID           | Name                            | University                                | Learning Path      | 
 | -------------| ------------------------------- | ----------------------------------------- | ------------------ | 
